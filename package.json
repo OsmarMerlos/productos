@@ -1,0 +1,22 @@
+{
+  "name": "produkt",
+  "version": "1.0.0",
+  "description": "system",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsmarMerlos/product1.git"
+  },
+  "author": "OsmarMerlos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OsmarMerlos/product1/issues"
+  },
+  "homepage": "https://github.com/OsmarMerlos/product1#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
